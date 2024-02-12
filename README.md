@@ -1,7 +1,7 @@
 # Experiences and Projects (Feb 2022)
 
 ## Aboutme
-I'm a junior data scientist with 1+ years of experience in project work and internship with an educational background in business administration (finance and marketing). Experienced in academic research and
+I'm a junior data scientist with 1+ years of experience in project work and internship with an educational background in business administration. Experienced in academic research and
 data science.
 
 ## Education
