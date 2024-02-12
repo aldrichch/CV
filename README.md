@@ -10,23 +10,32 @@ data science.
 
 ## Work Experience
 **Research Asisstant @ National Taipei University (_Apr 2023 - Feb 2024_)**
-- big impact 1
-- big impact 2
+- Designed Python to scrape 1.000.000+ data and imported it into Excel files and binary encoded data from
+a website that uses symbols.
+- Trusted with written interview letter permit for 6 government departments in Indonesia. Document
+translation, contacted interviewees, government policy document analysis, and transcription.
 
 **Junior Data Scientsit @ Telkom Indonesia (_Sep 2023 - Oct 2023_)**
-- big impact 1
-- big impact 2
+- Leveraged Python to predict time-to-resolution (TTR), frequency, severity, and workload forecasting
+metrics, optimizing customer experience and human resources efficiency in customer service operations.
 
 **Data Entry @ Indonesian Economic and Trade Office to Taipei**
-- big impact 1
-- big impact 2
+- Inputted 50.000+ data entries from Excel to website, meticulously ensuring accuracy and consistency.
+Smoothly added this carefully selected dataset to a website, making it easier for users to access and use.
   
 **Market Research Intern @ Ikigai Consulting**
+- Accomplished competitors’ strategies and customers' existing journeys research, raised Ikigai Consulting
+performance through 4 customers interview.
+- Mapped out a network of 300+ potential partner companies and initiated contact to promote company
+products and services.
 
 **Research Assistant @ Universitas Brawijaya**
-
+- Conducted 4 marketing research projects, published three journal articles, and utilized analytical tools, for instance, multiple regression, SPSS, and SWOT analysis. In addition, I also contributed as a discussant and speaker in undergraduate thesis exams for marketing topics.
+- 
 **Surveyor Assistant Intern @ PT.SUCOFINDO (PERSERO) Indonesia**
-
+- Arranged and calculated the laboratory results of the exporter products into the certificates of analysis.
+- Managed surveyor’s export-import certificates, certificate of analysis and sampling, certificate of origin, L/C bank, and draught survey.
+  
 ## Projects
 ### Co-opted Boards and Corporate Risk-Taking
 
@@ -40,6 +49,9 @@ bla bla bla
 ### Time Series Analysis
 
 bla bla bla
+
+## Digital Skills
+Python, SQL, STATA, SPSS, Microsoft Office.
 
 ## Publications
 1. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90.
