@@ -43,12 +43,17 @@ products and services.
 ### Customer Service Time Analytics
 [Notebook](https://colab.research.google.com/drive/1zKrhto0OM6V56agUULaT05reMobv4PNe)
 
-Utilizing data analytics techniques to analyze customer behavior, identify priority products, and determine peak complaint days, enabling strategic decision-making and enhancing customer satisfaction.
+EDA, Time to Resolution (TTR), frequency and severity, SARIMAX, and exponential smoothing.
 
 ### Time Series Analysis
 [Notebook](https://colab.research.google.com/drive/1jy0mchSVVmY2UP39ANjDsp9RMPsLIMjE#scrollTo=eTtrlJCeBDs7)
 
-Predicting future value with ARIMA and SARIMAX
+EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARIMA, and SARIMAX.
+
+### Predicting Hotel Booking Cancelation
+[Notebook](https://colab.research.google.com/drive/153X3CiPITSeNiuM_nAkVw7uH0M-FggRh#scrollTo=5eFaeCTp5wy2)
+
+EDA, SARIMAX, Elbow analysis (distortion), silhoutte score, random forest classifier, and ROC-AUC.
 
 ## Digital Skills
 Python, SQL, STATA, SPSS, Microsoft Office.
