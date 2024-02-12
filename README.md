@@ -9,11 +9,11 @@ data science.
 - B.B.A., Marketing | Universitas Brawijaya, Indonesia
 
 ## Work Experience
-**Research Asisstant @ National Taipei University (_April 2023 - February 2024_)**
+**Research Asisstant @ National Taipei University (_Apr 2023 - Feb 2024_)**
 - big impact 1
 - big impact 2
 
-**Junior Data Scientsit @ Telkom Indonesia (_September 2023 - October)**
+**Junior Data Scientsit @ Telkom Indonesia (_Sep 2023 - Oct 2023_)**
 - big impact 1
 - big impact 2
 
