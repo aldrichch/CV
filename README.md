@@ -38,17 +38,17 @@ products and services.
   
 ## Projects
 ### Co-opted Boards and Corporate Risk-Taking
-
-bla bla bla
+(Published soon)
 
 ### Customer Service Time Analytics
 [Notebook](https://colab.research.google.com/drive/1zKrhto0OM6V56agUULaT05reMobv4PNe)
 
-bla bla bla
+Utilizing data analytics techniques to analyze customer behavior, identify priority products, and determine peak complaint days, enabling strategic decision-making and enhancing customer satisfaction.
 
 ### Time Series Analysis
+[Notebook](https://colab.research.google.com/drive/1jy0mchSVVmY2UP39ANjDsp9RMPsLIMjE#scrollTo=eTtrlJCeBDs7)
 
-bla bla bla
+Predicting future value with ARIMA and SARIMAX
 
 ## Digital Skills
 Python, SQL, STATA, SPSS, Microsoft Office.
