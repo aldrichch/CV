@@ -5,8 +5,8 @@ I'm a junior data scientist with 1+ years of experience in project work and inte
 data science.
 
 ## Education
-- MBA., Finance | National Taipei University, Taiwan
-- BBA., Marketing | Universitas Brawijaya, Indonesia
+- M.B.A., Finance | National Taipei University, Taiwan
+- B.B.A., Marketing | Universitas Brawijaya, Indonesia
 
 ## Work Experience
 **Research Asisstant @ National Taipei University (_April 2023 - February 2024_)**
