@@ -59,6 +59,6 @@ EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest class
 Python, SQL, STATA, SPSS, Microsoft Office.
 
 ## Publications
-1. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90.
-2. Andreas, Y. F., & Unpapar, A. A. (2021). The Influence of Service Quality and Product Taste on Product Repurchase Intention (Survey on Customers of UB Coffee Malang). Jurnal Indonesia Sosial Sains, 2(10), 467648.
-3. Unpapar, A. A. (2021). Swot Analysis In Sales Strategy At The Coffee Shop In The Pandemic Era (Study of Belikopi Coffee Shop in Nganjuk). International Journal of Economics, Business and Accounting Research (IJEBAR), 5(3), 2139-2150.
+1. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
+2. Andreas, Y. F., & Unpapar, A. A. (2021). The Influence of Service Quality and Product Taste on Product Repurchase Intention (Survey on Customers of UB Coffee Malang). Jurnal Indonesia Sosial Sains, 2(10), 467648. [Link](https://jiss.publikasiindonesia.id/index.php/jiss/article/view/440)
+3. Unpapar, A. A. (2021). Swot Analysis In Sales Strategy At The Coffee Shop In The Pandemic Era (Study of Belikopi Coffee Shop in Nganjuk). International Journal of Economics, Business and Accounting Research (IJEBAR), 5(3), 2139-2150. [Link](https://jurnal.stie-aas.ac.id/index.php/IJEBAR/article/view/2790)
