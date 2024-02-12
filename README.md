@@ -31,7 +31,7 @@ products and services.
 
 **Research Assistant @ Universitas Brawijaya**
 - Conducted 4 marketing research projects, published three journal articles, and utilized analytical tools, for instance, multiple regression, SPSS, and SWOT analysis. In addition, I also contributed as a discussant and speaker in undergraduate thesis exams for marketing topics.
-- 
+  
 **Surveyor Assistant Intern @ PT.SUCOFINDO (PERSERO) Indonesia**
 - Arranged and calculated the laboratory results of the exporter products into the certificates of analysis.
 - Managed surveyor’s export-import certificates, certificate of analysis and sampling, certificate of origin, L/C bank, and draught survey.
