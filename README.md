@@ -36,7 +36,7 @@ products and services.
 - Arranged and calculated the laboratory results of the exporter products into the certificates of analysis.
 - Managed surveyor’s export-import certificates, certificate of analysis and sampling, certificate of origin, L/C bank, and draught survey.
   
-## Projects
+## Recent Projects
 ### Co-opted Boards and Corporate Risk-Taking
 (Published soon)
 
