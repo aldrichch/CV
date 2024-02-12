@@ -1,6 +1,5 @@
-bundle install
-title: "Aldrich Alfatera Unpapar"
-logo: /assets/photo1.jpg
+title: Aldrich Alfatera Unpapar
+# logo: /assets/photo1.jpg
 # description:
 show_downloads: false
 theme: jekyll-theme-minimal
