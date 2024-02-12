@@ -53,7 +53,7 @@ EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARIMA, and SARI
 ### Predicting Hotel Booking Cancelation
 [Notebook](https://colab.research.google.com/drive/153X3CiPITSeNiuM_nAkVw7uH0M-FggRh#scrollTo=5eFaeCTp5wy2)
 
-EDA, SARIMAX, Elbow analysis (distortion), silhoutte score, random forest classifier, and ROC-AUC.
+EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
 
 ## Digital Skills
 Python, SQL, STATA, SPSS, Microsoft Office.
