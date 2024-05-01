@@ -18,13 +18,13 @@ a website that uses symbols.
 translation, contacted interviewees, government policy document analysis, and transcription.
 
 **Junior Data Scientsit @ Telkom Indonesia (_Sep 2023 - Oct 2023_)**
-- Leveraged Python to predict time-to-resolution (TTR), frequency, severity, and workload forecasting
-metrics, optimizing customer experience and human resources efficiency in customer service operations.
-
-**Data Entry @ Indonesian Economic and Trade Office to Taipei**
 - Developed Python models for TTR, frequency, severity, and workload forecasting, improving customer experience and HR efficiency.
 - Offered actionable recommendations on workload prioritization, peak days, and product focus, streamlining operations.
 - Predicted future case volumes per day by using ARIMA and Exponential Smoothing models, enabling proactive resource planning for efficient team allocation.
+
+**Data Entry @ Indonesian Economic and Trade Office to Taipei**
+- Inputted 50.000+ data entries from Excel to the website, meticulously ensuring accuracy and consistency. Smoothly added this carefully selected dataset to a website, making it easier for users to use.
+- Get involved in the Rasa Indonesia project, survey, and list Indonesian shops/stores in Taiwan on the website.
   
 **Market Research Intern @ Ikigai Consulting**
 - Accomplished competitors’ strategies and customers' existing journeys research, raised Ikigai Consulting
