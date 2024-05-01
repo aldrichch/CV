@@ -7,6 +7,10 @@ data science.
 - B.B.A., Marketing | Universitas Brawijaya, Indonesia
 
 ## Work Experience
+**Data Analyst @ Rabbit Hole (_Apr 2024 - Present)**
+- Creating, designing, and maintaining a new database for social media admin and community analysis.
+- Analyzing comprehensive reports for all projects and visualizing with Matplotlib and Looker Studio.
+
 **Research Asisstant @ National Taipei University (_Apr 2023 - Feb 2024_)**
 - Designed Python to scrape 1.000.000+ data and imported it into Excel files and binary encoded data from
 a website that uses symbols.
@@ -18,8 +22,9 @@ translation, contacted interviewees, government policy document analysis, and tr
 metrics, optimizing customer experience and human resources efficiency in customer service operations.
 
 **Data Entry @ Indonesian Economic and Trade Office to Taipei**
-- Inputted 50.000+ data entries from Excel to website, meticulously ensuring accuracy and consistency.
-Smoothly added this carefully selected dataset to a website, making it easier for users to access and use.
+- Developed Python models for TTR, frequency, severity, and workload forecasting, improving customer experience and HR efficiency.
+- Offered actionable recommendations on workload prioritization, peak days, and product focus, streamlining operations.
+- Predicted future case volumes per day by using ARIMA and Exponential Smoothing models, enabling proactive resource planning for efficient team allocation.
   
 **Market Research Intern @ Ikigai Consulting**
 - Accomplished competitors’ strategies and customers' existing journeys research, raised Ikigai Consulting
@@ -54,7 +59,7 @@ EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARIMA, and SARI
 EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
 
 ## Digital Skills
-Python, SQL, STATA, SPSS, Microsoft Office.
+Python, SQL, STATA, SPSS, Looker Studio, Microsoft Office.
 
 ## Publications
 1. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
