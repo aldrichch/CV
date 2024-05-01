@@ -17,7 +17,7 @@ a website that uses symbols.
 - Trusted with written interview letter permit for 6 government departments in Indonesia. Document
 translation, contacted interviewees, government policy document analysis, and transcription.
 
-**Junior Data Scientsit @ Telkom Indonesia (_Sep 2023 - Oct 2023_)**
+**Junior Data Scientist Intern @ Telkom Indonesia (_Sep 2023 - Oct 2023_)**
 - Developed Python models for TTR, frequency, severity, and workload forecasting, improving customer experience and HR efficiency.
 - Offered actionable recommendations on workload prioritization, peak days, and product focus, streamlining operations.
 - Predicted future case volumes per day by using ARIMA and Exponential Smoothing models, enabling proactive resource planning for efficient team allocation.
