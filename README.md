@@ -7,7 +7,7 @@ data science.
 - B.B.A., Marketing | Universitas Brawijaya, Indonesia
 
 ## Work Experience
-**Data Analyst @ Rabbit Hole (_Apr 2024 - Present)**
+**Data Analyst @ Rabbit Hole (_Apr 2024 - Present_)**
 - Creating, designing, and maintaining a new database for social media admin and community analysis.
 - Analyzing comprehensive reports for all projects and visualizing with Matplotlib and Looker Studio.
 
