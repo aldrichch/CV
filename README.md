@@ -8,8 +8,9 @@ data science.
 
 ## Work Experience
 **Data Analyst @ Rabbit Hole (_Apr 2024 - Present_)**
-- Creating, designing, and maintaining a new database for social media admin and community analysis.
-- Analyzing comprehensive reports for all projects and visualizing with Matplotlib and Looker Studio.
+- Creating and designing the first database for the company to do community data analysis by creating an internal front-end user-friendly (HTML, Google Apps Script, Excel, and GitHub).
+- Maintaining database, manipulating, and analyzing data to obtain insights (MySQL and Python).
+- Analyzing comprehensive reports for all projects and visualizing for stakeholders (Matplotlib, Tableau, and Looker).
 
 **Research Asisstant @ National Taipei University (_Apr 2023 - Feb 2024_)**
 - Designed Python to scrape 1.000.000+ data and imported it into Excel files and binary encoded data from
