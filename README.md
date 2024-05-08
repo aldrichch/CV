@@ -1,4 +1,4 @@
-[LinkedIn](linkedin.com/in/aldrichalfa)
+[LinkedIn](https://www.linkedin.com/in/aldrich-alfatera-unpapar-394252228/)
 
 ## About me
 I'm a junior data scientist with 1+ years of experience in project work and internship with an educational background in business administration. Experienced in academic research and
