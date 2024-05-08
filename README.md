@@ -1,3 +1,5 @@
+<img src="rh_logo_input.png" alt="Icon">
+
 ## About me
 I'm a junior data scientist with 1+ years of experience in project work and internship with an educational background in business administration. Experienced in academic research and
 data science.
