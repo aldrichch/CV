@@ -60,7 +60,7 @@ EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARIMA, and SARI
 EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
 
 ## Digital Skills
-Python, SQL, STATA, SPSS, Looker Studio, Microsoft Office.
+Python, MySQL, STATA, SPSS, HTML, Looker Studio, Microsoft Office.
 
 ## Publications
 1. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
