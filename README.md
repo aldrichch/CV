@@ -4,7 +4,6 @@ data science.
 
 ## Education
 • M.B.A., Finance | National Taipei University, Taiwan
-
 • B.B.A., Marketing | Universitas Brawijaya, Indonesia
 
 ## Work Experience
