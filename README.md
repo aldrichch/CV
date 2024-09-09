@@ -2,9 +2,9 @@
 I'm a financial data analyst and data scientist with an educational background in business administration.
 
 ## Education
-• M.B.A., Finance | National Taipei University, Taiwan
+• M.B.A., Finance, from National Taipei University, Taiwan
 
-• B.B.A., Marketing | Universitas Brawijaya, Indonesia
+• B.B.A., Marketing, from Universitas Brawijaya, Indonesia
 
 ## Work Experience
 **Data Analyst at Rabbit Hole (_Apr 2024 - Sep 2024_)**
