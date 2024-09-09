@@ -7,11 +7,11 @@ I'm a financial data analyst and data scientist with an educational background i
 • B.B.A., Marketing | Universitas Brawijaya, Indonesia
 
 ## Work Experience
-**Data Analyst | Rabbit Hole (_Apr 2024 - Sep 2024_)**
+**Data Analyst at Rabbit Hole (_Apr 2024 - Sep 2024_)**
 
 • Developed and implemented the company's first database for community data analysis with MySQL, Python, Spreadsheets, HTML, and Google Apps Script, plus visualization with Looker and Matplolib.
 
-**Research Asisstant | National Taipei University (_Apr 2023 - Feb 2024_)**
+**Research Asisstant at National Taipei University (_Apr 2023 - Feb 2024_)**
 
 • Designed Python scripts to scrape over 1,000,000 rows of complex, binary-encoded weather, sunrise, and sunset data with 100% accuracy.
 
@@ -19,7 +19,7 @@ I'm a financial data analyst and data scientist with an educational background i
 
 • Performed data and quantitative analysis, and reconstructed data into panel or longitudinal formats to uncover insights and trends.
 
-**Junior Data Scientist Intern @ Telkom Indonesia (_Sep 2023 - Oct 2023_)**
+**Junior Data Scientist Intern at Telkom Indonesia (_Sep 2023 - Oct 2023_)**
 
 • Developed Python models for TTR, frequency, severity, and workload forecasting, improving customer experience and HR efficiency.
 
@@ -27,11 +27,11 @@ I'm a financial data analyst and data scientist with an educational background i
 
 • Predicted future case volumes per day by using ARIMA and Exponential Smoothing models, enabling proactive resource planning for efficient team allocation.
 
-**Data Entry | Indonesian Economic and Trade Office to Taipei**
+**Data Entry at Indonesian Economic and Trade Office to Taipei**
 
 • Inputted 50.000+ data entries from Excel to the website, meticulously ensuring accuracy and consistency. Smoothly added this carefully selected dataset to a website, making it easier for users to access and use.
   
-**Market Research Intern | Ikigai Consulting**
+**Market Research Intern at Ikigai Consulting**
 
 • Accomplished competitors’ strategies and customers' existing journeys research, raised Ikigai Consulting
 performance through 4 customers interview.
@@ -39,11 +39,11 @@ performance through 4 customers interview.
 • Mapped out a network of 300+ potential partner companies and initiated contact to promote company
 products and services.
 
-**Research Assistant | Universitas Brawijaya**
+**Research Assistant at Universitas Brawijaya**
 
 • Conducted 4 marketing research projects, published journal articles, and utilized analytical tools, for instance, multiple regression, SPSS, and SWOT analysis. In addition, I also contributed as a discussant and speaker in undergraduate thesis exams for marketing topics.
   
-**Surveyor Assistant Intern | PT. SUCOFINDO (PERSERO) Indonesia**
+**Surveyor Assistant Intern at PT. SUCOFINDO (PERSERO) Indonesia**
 
 • Arranged and calculated the laboratory results of the exporter products into the certificates of analysis.
 
