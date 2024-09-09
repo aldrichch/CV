@@ -80,7 +80,7 @@ Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random 
 
 [Certificate](https://drive.google.com/file/d/1SiUQWqiZH1GePku4V9VDz7AuOYz9uvoe/view?usp=drive_link)
 
-**Indonesia Associate Data Scientist Certification**
+**Indonesia Associate Data Scientist Certification (2023)**
 
 [Certificate](https://drive.google.com/file/d/1UmT4iBVIiMXRLah_r84XoH9PIKpRAMPp/view?usp=drive_link)
 
