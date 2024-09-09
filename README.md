@@ -65,8 +65,11 @@ Techniques: EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARI
 
 Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
 
-## Recent Projects
-Python, MySQL, STATA, SPSS, HTML, Looker Studio, Microsoft Office.
+## Data Analysis Tools
+Python, R, STATA, and SPSS.
+
+## Other Digital Skills
+MySQL, HTML, Looker Studio, and Microsoft Office.
 
 ## Publications
 1. Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking (Published soon)
