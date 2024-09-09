@@ -69,7 +69,31 @@ Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random 
 Python, R, STATA, and SPSS.
 
 ## Other Digital Skills
-MySQL, HTML, Looker Studio, and Microsoft Office.
+MySQL, HTML, Looker Studio, SAP, and Microsoft Office.
+
+## Certificates & Awards
+### Best Paper Awards , 2024 International Conference on Business Administration (ICBA)
+[Certificate] 
+
+### Indonesia Associate Data Scientist Certification
+[Certificate]
+
+### Data Science Math Skills 
+[Certificate](https://www.coursera.org/account/accomplishments/verify/CEVB5DUEQ43V)
+
+### Fundamentals of Quantitative Modelling
+[Certificate](https://www.coursera.org/account/accomplishments/verify/B7S6499BHFAL)
+
+## Extracurricular
+### Top 7 “Study in Taiwan” Adventure Video Contest (Special Prices)
+[Link]
+
+### 2022 My Wonderful University Photography Competition (Excellence Award)
+[Link]
+
+### Member of Environment Preservation
+[Link]
+
 
 ## Publications
 1. Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking (Published soon)
