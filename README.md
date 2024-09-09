@@ -52,6 +52,12 @@ products and services.
 • Arranged and calculated the laboratory results of the exporter products into the certificates of analysis.
 
 • Managed surveyor’s export-import certificates, certificate of analysis and sampling, certificate of origin, L/C bank, and draught survey.
+
+## Data Analysis Tools
+Python, R, STATA, and SPSS.
+
+## Other Digital Skills
+MySQL, HTML, Looker Studio, Google Apps Script, SAP, and Microsoft Office.
   
 ## Recent Projects with Python
 ### Customer Services Time Analytics
@@ -69,13 +75,7 @@ Techniques: EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARI
 
 Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
 
-## Data Analysis Tools
-Python, R, STATA, and SPSS.
-
-## Other Digital Skills
-MySQL, HTML, Looker Studio, Google Apps Script, SAP, and Microsoft Office.
-
-## Certificates & Awards
+## Recent Certificates & Awards
 **Best Paper Awards , 2024 International Conference on Business Administration (ICBA)**
 
 [Certificate](https://drive.google.com/file/d/1SiUQWqiZH1GePku4V9VDz7AuOYz9uvoe/view?usp=drive_link)
@@ -92,7 +92,7 @@ MySQL, HTML, Looker Studio, Google Apps Script, SAP, and Microsoft Office.
 
 [Certificate](https://www.coursera.org/account/accomplishments/verify/B7S6499BHFAL)
 
-## Extracurricular
+## Recent Extracurricular
 **Top 7 “Study in Taiwan” Adventure Video Contest (Special Prices)**
 [Link](https://www.studyintaiwan.org/news/content/132)
 
