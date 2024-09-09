@@ -91,15 +91,11 @@ MySQL, HTML, Looker Studio, SAP, and Microsoft Office.
 ## Extracurricular
 **Top 7 “Study in Taiwan” Adventure Video Contest (Special Prices)**
 
-[Link]
-
-**2022 My Wonderful University Photography Competition (Excellence Award)**
-
-[Link]
+[Link](https://www.studyintaiwan.org/news/content/132)
 
 **Member of Environment Preservation**
 
-[Link]
+[Link](https://drive.google.com/file/d/1iPrU_fh2IcWpLTAzGHGFgVd2quHE-aJC/view?usp=drive_link)
 
 ## Research
 1. Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking (Published soon)
