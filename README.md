@@ -19,7 +19,7 @@ I'm a financial data analyst and data scientist with an educational background i
 
 • Performed data and quantitative analysis, and reconstructed data into panel or longitudinal formats to uncover insights and trends.
 
-**Junior Data Scientist Intern | Telkom Indonesia (_Sep 2023 - Oct 2023_)**
+**Junior Data Scientist Intern @ Telkom Indonesia (_Sep 2023 - Oct 2023_)**
 
 • Developed Python models for TTR, frequency, severity, and workload forecasting, improving customer experience and HR efficiency.
 
