@@ -7,7 +7,7 @@ I'm a financial data analyst and data scientist with an educational background i
 • Universitas Brawijaya, B.B.A., Marketing.
 
 ## Work Experience
-**Data Analyst at Rabbit Hole (_Apr 2024 - Sep 2024_)**
+**Data Analyst at Rabbit Hole (_Apr 2024 - Present_)**
 
 • Developed and implemented the company's first database for community data analysis with MySQL, Python, Spreadsheets, HTML, and Google Apps Script, plus visualization with Looker and Matplolib.
 
@@ -69,7 +69,7 @@ Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random 
 Python, R, STATA, and SPSS.
 
 ## Other Digital Skills
-MySQL, HTML, Looker Studio, SAP, and Microsoft Office.
+MySQL, HTML, Looker Studio, Google Apps Script, SAP, and Microsoft Office.
 
 ## Certificates & Awards
 **Best Paper Awards , 2024 International Conference on Business Administration (ICBA)**
