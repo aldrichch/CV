@@ -72,30 +72,29 @@ Python, R, STATA, and SPSS.
 MySQL, HTML, Looker Studio, SAP, and Microsoft Office.
 
 ## Certificates & Awards
-### Best Paper Awards , 2024 International Conference on Business Administration (ICBA)
+**Best Paper Awards , 2024 International Conference on Business Administration (ICBA)**
 [Certificate] 
 
-### Indonesia Associate Data Scientist Certification
+**Indonesia Associate Data Scientist Certification**
 [Certificate]
 
-### Data Science Math Skills 
+**Data Science Math Skills** 
 [Certificate](https://www.coursera.org/account/accomplishments/verify/CEVB5DUEQ43V)
 
-### Fundamentals of Quantitative Modelling
+**Fundamentals of Quantitative Modelling**
 [Certificate](https://www.coursera.org/account/accomplishments/verify/B7S6499BHFAL)
 
 ## Extracurricular
-### Top 7 “Study in Taiwan” Adventure Video Contest (Special Prices)
+**Top 7 “Study in Taiwan” Adventure Video Contest (Special Prices)**
 [Link]
 
-### 2022 My Wonderful University Photography Competition (Excellence Award)
+**2022 My Wonderful University Photography Competition (Excellence Award)**
 [Link]
 
-### Member of Environment Preservation
+**Member of Environment Preservation**
 [Link]
 
-
-## Publications
+## Research
 1. Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking (Published soon)
 2. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
 3. Andreas, Y. F., & Unpapar, A. A. (2021). The Influence of Service Quality and Product Taste on Product Repurchase Intention (Survey on Customers of UB Coffee Malang). Jurnal Indonesia Sosial Sains, 2(10), 467648. [Link](https://jiss.publikasiindonesia.id/index.php/jiss/article/view/440)
