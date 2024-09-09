@@ -74,11 +74,11 @@ MySQL, HTML, Looker Studio, SAP, and Microsoft Office.
 ## Certificates & Awards
 **Best Paper Awards , 2024 International Conference on Business Administration (ICBA)**
 
-[Certificate] 
+[Certificate](https://drive.google.com/file/d/1SiUQWqiZH1GePku4V9VDz7AuOYz9uvoe/view?usp=drive_link)
 
 **Indonesia Associate Data Scientist Certification**
 
-[Certificate]
+[Certificate](https://drive.google.com/file/d/1UmT4iBVIiMXRLah_r84XoH9PIKpRAMPp/view?usp=drive_link)
 
 **Data Science Math Skills** 
 
