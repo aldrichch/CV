@@ -80,11 +80,11 @@ MySQL, HTML, Looker Studio, SAP, and Microsoft Office.
 
 [Certificate](https://drive.google.com/file/d/1UmT4iBVIiMXRLah_r84XoH9PIKpRAMPp/view?usp=drive_link)
 
-**Data Science Math Skills** 
+**Data Science Math Skills (Course)** 
 
 [Certificate](https://www.coursera.org/account/accomplishments/verify/CEVB5DUEQ43V)
 
-**Fundamentals of Quantitative Modelling**
+**Fundamentals of Quantitative Modelling (Course)**
 
 [Certificate](https://www.coursera.org/account/accomplishments/verify/B7S6499BHFAL)
 
