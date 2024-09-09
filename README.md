@@ -90,11 +90,9 @@ MySQL, HTML, Looker Studio, Google Apps Script, SAP, and Microsoft Office.
 
 ## Extracurricular
 **Top 7 “Study in Taiwan” Adventure Video Contest (Special Prices)**
-
 [Link](https://www.studyintaiwan.org/news/content/132)
 
 **Member of Environment Preservation**
-
 [Link](https://drive.google.com/file/d/1iPrU_fh2IcWpLTAzGHGFgVd2quHE-aJC/view?usp=drive_link)
 
 ## Research
