@@ -29,11 +29,7 @@ I'm a financial data analyst and data scientist with an educational background i
 
 **Data Entry | Indonesian Economic and Trade Office to Taipei**
 
-• Developed Python models for TTR, frequency, severity, and workload forecasting, improving customer experience and HR efficiency.
-
-• Offered actionable recommendations on workload prioritization, peak days, and product focus, streamlining operations.
-
-• Predicted future case volumes per day by using ARIMA and Exponential Smoothing models, enabling proactive resource planning for efficient team allocation.
+• Inputted 50.000+ data entries from Excel to the website, meticulously ensuring accuracy and consistency. Smoothly added this carefully selected dataset to a website, making it easier for users to access and use.
   
 **Market Research Intern | Ikigai Consulting**
 
@@ -53,28 +49,26 @@ products and services.
 
 • Managed surveyor’s export-import certificates, certificate of analysis and sampling, certificate of origin, L/C bank, and draught survey.
   
-## Recent Projects
-### Co-opted Boards and Corporate Risk-Taking
-(Published soon)
-
-### Customer Service Time Analytics
+## Recent Projects with Python
+### Customer Services Time Analytics
 [Python Notebook](https://colab.research.google.com/drive/1zKrhto0OM6V56agUULaT05reMobv4PNe)
 
-EDA, Time to Resolution (TTR), frequency and severity, SARIMAX, and exponential smoothing.
+Techniques: EDA, Time to Resolution (TTR), frequency and severity, SARIMAX, and exponential smoothing.
 
-### Time Series Analysis
+### Financial Time Series Analysis
 [Python Notebook](https://colab.research.google.com/drive/1jy0mchSVVmY2UP39ANjDsp9RMPsLIMjE#scrollTo=eTtrlJCeBDs7)
 
-EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARIMA, and SARIMAX.
+Techniques: EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARIMA, and SARIMAX.
 
 ### Predicting Hotel Booking Cancelation
 [Python Notebook](https://colab.research.google.com/drive/153X3CiPITSeNiuM_nAkVw7uH0M-FggRh#scrollTo=5eFaeCTp5wy2)
 
-EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
+Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
 
-## Digital Skills
+## Recent Projects
 Python, MySQL, STATA, SPSS, HTML, Looker Studio, Microsoft Office.
 
 ## Publications
-1. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
-2. Andreas, Y. F., & Unpapar, A. A. (2021). The Influence of Service Quality and Product Taste on Product Repurchase Intention (Survey on Customers of UB Coffee Malang). Jurnal Indonesia Sosial Sains, 2(10), 467648. [Link](https://jiss.publikasiindonesia.id/index.php/jiss/article/view/440)
+1. Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking (Published soon)
+2. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
+3. Andreas, Y. F., & Unpapar, A. A. (2021). The Influence of Service Quality and Product Taste on Product Repurchase Intention (Survey on Customers of UB Coffee Malang). Jurnal Indonesia Sosial Sains, 2(10), 467648. [Link](https://jiss.publikasiindonesia.id/index.php/jiss/article/view/440)
