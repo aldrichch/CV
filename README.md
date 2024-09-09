@@ -51,17 +51,17 @@ products and services.
   
 ## Recent Projects with Python
 ### Customer Services Time Analytics
-[Python Notebook](https://colab.research.google.com/drive/1zKrhto0OM6V56agUULaT05reMobv4PNe)
+[Google Colab Notebook](https://colab.research.google.com/drive/1zKrhto0OM6V56agUULaT05reMobv4PNe)
 
 Techniques: EDA, Time to Resolution (TTR), frequency and severity, SARIMAX, and exponential smoothing.
 
 ### Financial Time Series Analysis
-[Python Notebook](https://colab.research.google.com/drive/1jy0mchSVVmY2UP39ANjDsp9RMPsLIMjE#scrollTo=eTtrlJCeBDs7)
+[Google Colab Notebook](https://colab.research.google.com/drive/1jy0mchSVVmY2UP39ANjDsp9RMPsLIMjE#scrollTo=eTtrlJCeBDs7)
 
 Techniques: EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARIMA, and SARIMAX.
 
 ### Predicting Hotel Booking Cancelation
-[Python Notebook](https://colab.research.google.com/drive/153X3CiPITSeNiuM_nAkVw7uH0M-FggRh#scrollTo=5eFaeCTp5wy2)
+[Google Colab Notebook](https://colab.research.google.com/drive/153X3CiPITSeNiuM_nAkVw7uH0M-FggRh#scrollTo=5eFaeCTp5wy2)
 
 Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
 
