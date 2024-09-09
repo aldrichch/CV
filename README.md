@@ -9,7 +9,11 @@ I'm a financial data analyst and data scientist with an educational background i
 ## Work Experience
 **Data Analyst at Rabbit Hole (_Apr 2024 - Present_)**
 
-• Developed and implemented the company's first database for community data analysis with MySQL, Python, Spreadsheets, HTML, and Google Apps Script, plus visualization with Looker and Matplolib.
+• Implemented the first database for the company to do community data analysis by creating an internal front-end user-friendly internal interface for live data reporting (HTML, Google Apps Script, Excel, and GitHub).
+
+• Managed and optimized the database, utilizing MySQL and Python for data manipulation and analysis.
+
+• Provided actionable insights and recommendations, including strategies to increase Instagram engagement through social media timing analytics and sentiment analysis, boosting insights by 20% within 2 months.
 
 **Research Asisstant at National Taipei University (_Apr 2023 - Feb 2024_)**
 
