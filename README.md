@@ -4,7 +4,11 @@ I'm a financial data analyst and data scientist with an educational background i
 ## Education
 • National Taipei University, M.B.A., Finance.
 
+Elective Modules: Computer Programming, Python for Finance, Financial Econometrics, Artificial Intelligence in Finance and Quantitative Analysis, Time Series Analysis, and Information Systems.
+
 • Universitas Brawijaya, B.B.A., Marketing.
+
+Modules: Business Statistics, Business Analysis, and Applied Business Mathematics.
 
 ## Work Experience
 **Data Analyst at Rabbit Hole (_Apr 2024 - Present_)**
@@ -100,6 +104,6 @@ Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random 
 [Link](https://drive.google.com/file/d/1iPrU_fh2IcWpLTAzGHGFgVd2quHE-aJC/view?usp=drive_link)
 
 ## Research
-1. Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking (Published soon)
+1. Co-opted Boards and Corporate Risk-Taking [Link](https://drive.google.com/file/d/1kB6K7prQCoBZNmrTsGvprfCH0scH-Oon/view?usp=drive_link)
 2. Unpapar, A. A. (2021). The Moderating Role of Electronic Word of Mouth (eWOM) in the Influence of Perceived Value on Repurchase Intention. Indonesian Journal of Business Analytics, 1(1), 71-90. [Link](https://journal.formosapublisher.org/index.php/ijba/article/view/6)
 3. Andreas, Y. F., & Unpapar, A. A. (2021). The Influence of Service Quality and Product Taste on Product Repurchase Intention (Survey on Customers of UB Coffee Malang). Jurnal Indonesia Sosial Sains, 2(10), 467648. [Link](https://jiss.publikasiindonesia.id/index.php/jiss/article/view/440)
