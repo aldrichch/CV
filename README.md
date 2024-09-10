@@ -1,5 +1,5 @@
 ## About me
-I'm a data analyst and data scientist with an educational background in business administration.
+I'm a financial data analyst with an educational background in business administration.
 
 ## Education
 • National Taipei University, M.B.A., Finance.
@@ -10,7 +10,7 @@ Elective Modules: Computer Programming, Python for Finance, Financial Econometri
 
 Modules: Business Statistics, Business Analysis, and Applied Business Mathematics.
 
-## Work Experience
+## Experience
 **Data Analyst at Rabbit Hole (_Apr 2024 - Present_)**
 
 • Implemented the first database for the company to do community data analysis by creating an internal front-end user-friendly internal interface for live data reporting (HTML, Google Apps Script, Excel, and GitHub).
