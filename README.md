@@ -1,5 +1,5 @@
 ## About me
-I'm a financial data analyst with an educational background in business administration.
+I'm a financial data analyst with a educational backgrounds in business administration.
 
 ## Education
 • National Taipei University, M.B.A., Finance.
