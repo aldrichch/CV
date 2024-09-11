@@ -74,7 +74,7 @@ Techniques: EDA, Dickey-Fuller test, time shift differencing, log, ACF-PACF, ARI
 Techniques: EDA, SARIMAX, Elbow analysis (distortion), silhouette score, random forest classifier, and ROC-AUC.
 
 ## Recent Certificates & Awards
-**Best Paper Awards , 2024 International Conference on Business Administration (ICBA)**
+**Best Paper Awards, 2024 International Conference on Business Administration (ICBA)**
 
 [Certificate](https://drive.google.com/file/d/1SiUQWqiZH1GePku4V9VDz7AuOYz9uvoe/view?usp=drive_link)
 
